@@ -37,7 +37,7 @@
     ], [
             "&kp EQUAL", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
               "&kp TAB", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-              "&kp ESC", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&kp LEFT_COMMAND", "&kp LALT",                     "&kp RIGHT_CONTROL", "&kp RIGHT_COMMAND", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+              "&kp ESC", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&kp LEFT_COMMAND", "&kp LALT",                     "&kp RIGHT_CONTROL", "&kp RIGHT_COMMAND", "&tog 4", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&kp LEFT_SHIFT", "&trans", "&trans", "&trans", "&trans", "&trans",                                           "&trans",                                "&trans",                                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
                   "&mo", "&trans", "&trans", "&trans", "&trans",                     "&trans",           "&trans",   "&trans",                                "&trans",            "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
